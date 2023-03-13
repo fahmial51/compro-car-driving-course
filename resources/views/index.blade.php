@@ -120,7 +120,7 @@
                     </div>
                     <div class="end-sec">
                         <ul>
-                            <li>Cara Belajar Mobil dengan kaidah Safety Driving</li>
+                            <li>Cara Belajar Mobil dengan kaidah Safety Mriving</li>
                             <li>Cara Mengendarai Mobil di Jalan Raya</li>
                             <li>Cara Mengoper Gigi Mobil Manual & Automatic</li>
                             <li>Cara Mengemudi Mobil Manual di Tanjakan</li>
@@ -149,7 +149,7 @@
                     </div>
                     <div class="end-sec">
                         <ul>
-                            <li>Cara Belajar Mobil dengan kaidah Safety Driving</li>
+                            <li>Cara Belajar Mobil dengan kaidah Safety Mriving</li>
                             <li>Cara Mengendarai Mobil di Jalan Raya</li>
                             <li>Cara Mengoper Gigi Mobil Manual & Automatic</li>
                             <li>Cara Mengemudi Mobil Manual di Tanjakan</li>
@@ -178,7 +178,7 @@
                     </div>
                     <div class="end-sec">
                         <ul>
-                            <li>Cara Belajar Mobil dengan kaidah Safety Driving</li>
+                            <li>Cara Belajar Mobil dengan kaidah Safety Mriving</li>
                             <li>Cara Mengendarai Mobil di Jalan Raya</li>
                             <li>Cara Mengoper Gigi Mobil Manual & Automatic</li>
                             <li>Cara Mengemudi Mobil Manual di Tanjakan</li>
@@ -277,6 +277,45 @@
     </div>
 </section>
 <!-- End service Area -->
+
+<section class="service-area section-gap" id="trainer-kami">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-8 pb-40 header-text">
+                <h1>Trainer Profesional</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single-service text-center">
+                    <img src="{{asset('image/profile.png')}}" height="100px">
+                    <h4><span class="lnr lnr-user"></span>Mr. Manhattan</h4>
+                    <p>
+                        Berapapun habisnya BBM akan ditanggung oleh perusahaan, sehingga instruktur bisa lebih leluasa dalam mengajar
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-service text-center">
+                    <img src="{{asset('image/profile.png')}}" height="100px">
+                    <h4><span class="lnr lnr-user"></span>Mr. Manhattan</h4>
+                    <p>
+                        Berapapun habisnya BBM akan ditanggung oleh perusahaan, sehingga instruktur bisa lebih leluasa dalam mengajar
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-service text-center">
+                    <img src="{{asset('image/profile.png')}}" height="100px">
+                    <h4><span class="lnr lnr-user"></span>Mr. Manhattan</h4>
+                    <p>
+                        Berapapun habisnya BBM akan ditanggung oleh perusahaan, sehingga instruktur bisa lebih leluasa dalam mengajar
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- Start info Area -->
 <section class="info-area relative section-gap" id="customer-service">
